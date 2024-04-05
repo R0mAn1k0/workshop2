@@ -1,0 +1,16 @@
+.container{
+max-width: 1200px;
+width: 100%;
+}
+.logo{
+    width: 150px;
+    height: 70px;
+}
+.link{
+    font-size: 18;
+    color: black;
+    text-decoration: none;
+}
+.active{
+    color: yellow;
+}
